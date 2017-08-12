@@ -1,0 +1,90 @@
+
+.first{
+	position: fixed;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	z-index: 100;
+}
+.sidebar .head {
+	height: 86px;
+	width: 100%;
+	position: fixed;
+	margin:auto;
+	background-color:white;
+
+
+}
+
+.name{
+	background-color: #4AAAA5;
+	width: 219px;
+	height: 80px;
+	text-align: center;
+	position:relative;
+	top: 7px;
+	right:-102px;
+	color: white;
+}
+.secound{
+	position: relative;
+	top: -84px;
+	right:-800px;
+}
+.contact{
+	float: right;
+	margin-right: 15px;
+	color: lightgrey;
+}
+
+.portfolio{
+	float: right;
+	margin-right: 15px;
+	color: lightgrey;
+}
+
+.about{
+	float: right;
+	margin-right: 15px;
+	color: lightgrey;
+}
+
+body{
+	background-image: url(concrete-texture.png);
+}
+
+.box1 .big{
+	width: 528px;
+	height: 394px;
+	position: relative;
+	top: 151px;
+	right: -101px;
+	background-color: white;
+	z-index: 5;
+
+}
+
+.aboutme{
+	z-index: 10;
+	position: relative;
+	top: -249px;
+	right: -139px;
+	color: #4AAAA5;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-size: 20px;
+}
+
+img{
+	z-index: 30;
+	position: relative;
+	top: -254px;
+	right: -140px;
+	width: 89px;
+}
+
+.box2 .small{
+	background-color: white;
+	width: 270px;
+	height: 202px;
+	position: relative;
+	top: -448px;
+	right: -776px;
+}
